@@ -25,16 +25,10 @@ body{
     box-shadow: inset 5px 5px 12px rgb(255, 255, 255);
 }
 
-h2{
-    font-size: 2rem;
-    color: black;
-    border-radius: 20px;
-    margin-bottom: 20px;
-}
-
 .calu{
     width: 340px;
     padding: 15px;
+    margin-top : 15px;
     border-radius: 30px;
     display: grid;
     grid-template-columns: repeat(4,78px);
